@@ -1,2 +1,2 @@
 # Seminar7_TU
-Sissejuhatus erialasse
+David Chiboshvili
